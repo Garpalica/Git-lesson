@@ -6,16 +6,9 @@ int main() {
 }
 
 int comporate(void) {
-	for i in range
-		pfffrfs
+	for i in range 1000{
+		pfffrfff
+	
 	}
 
-}fdtddrggdrg
-hg
-rwrrκο
-
-23424
-σκο
-
-int main())drgwefdrg
-drg
+}
