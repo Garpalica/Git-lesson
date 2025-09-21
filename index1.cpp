@@ -10,10 +10,12 @@ int comporate(void) {
 		pfffrfs
 	}
 
-}
+}fdtddrggdrg
+hg
 rwrrκο
 
-
+23424
 σκο
 
-int main())wef
+int main())drgwefdrg
+drg
