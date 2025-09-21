@@ -1,22 +1,24 @@
 #include <stdio.h>
 
 int main() {
+
 	printf("hello world"\n)
 
-}
 
 }
 q2e
-int comporate() {
-	for i in range 1000{
+
 		pfffrfff
 		qw
+			фвафафаф
+Привет андрей
+цуца
 
-РџСЂРёРІРµС‚ Р°РЅРґСЂРµР№
-С†СѓС†Р°
-
-
-	
+впврв
+5н4н
 	}
 
-}sg
+
+
+	Привет мирррр
+
