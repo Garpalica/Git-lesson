@@ -6,9 +6,14 @@ int main() {
 }
 
 int comporate(void) {
-	for i in range 1000{
-		pfffrfff
-	
+	for i in range
+		pfffrfs
 	}
 
 }
+rwrrκο
+
+
+σκο
+
+int main())wef
