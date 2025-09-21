@@ -5,9 +5,17 @@ int main() {
 
 }
 
-int comporate(void) {
+}
+q2e
+int comporate() {
 	for i in range 1000{
 		pfffrfff
+		qw
+
+Привет андрей
+цуца
+
+
 	
 	}
 
